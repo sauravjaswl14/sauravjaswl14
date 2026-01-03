@@ -23,7 +23,7 @@ I focus on writing clean, scalable and maintainable code, delivering features th
 </p>
 
 
-## 📈 What I Focus On
+## What I Focus On
 - Writing maintainable & scalable code
 - Building real product features
 - Performance optimization
@@ -31,9 +31,7 @@ I focus on writing clean, scalable and maintainable code, delivering features th
 
 
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/saurav-jaiswal-96b288200/
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/saurav-jaiswal-96b288200/
 
----
 
-⭐ *Feel free to explore my repositories and projects*
