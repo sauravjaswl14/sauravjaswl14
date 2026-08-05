@@ -9,11 +9,10 @@ I focus on writing clean, scalable and maintainable code, delivering features th
 
 ---
 
-- 🔭 I’m currently working on building scalable web applications using React, Next.js, and TypeScript
-- 🌱 I’m currently learning software architecture, and industry standard coding patterns
-- 👯 I’m looking to collaborate on real-world web applications 
-- 🤔 I’m looking for help with system design and scalable backend integrations
-- 💬 Ask me about React, Next.js, Tailwind CSS, React Query, Redux Toolkit, and modern frontend practices
+- 🌱 I’m learning to build scalable and efficient backend systems and services.
+- 👯 I’m looking to collaborate on real-world web applications. 
+- 🤔 I’m looking for help with system design and AI integrations.
+- 💬 Ask me about React, Next.js, database design, writing efficient database queries and building scalable backend systems.
 - 📫 How to reach me: https://www.linkedin.com/in/saurav-jaiswal-96b288200/
 - 😄 Pronouns: He/Him
 
