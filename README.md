@@ -4,7 +4,7 @@ Passionate, results driven Software Engineer and a life long learner.
 
 ## About Me
 
-I’m a software engineer with hands-on experience building real-world web applications using **React.js, Next.js, and TypeScript**.  
+I’m a full stack software engineer with hands-on experience building real-world web applications using **modern tech stacks**.  
 I focus on writing clean, scalable and maintainable code, delivering features that align with product requirements.
 
 ---
@@ -19,7 +19,7 @@ I focus on writing clean, scalable and maintainable code, delivering features th
 
 ### Languages and tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,git,nodejs,expressjs,postgresql,mysql,mongodb,redis,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,git,python,go,nodejs,expressjs,postgresql,mysql,mongodb,redis,aws&perline=10" />
 </p>
 
 
