@@ -18,7 +18,7 @@ I focus on writing clean, scalable and maintainable code, delivering features th
 
 ### Languages and tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,python,js,ts,html,css,tailwind,react,nextjs,redux,git,spring,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,redis,docker,aws&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,html,css,tailwind,react,nextjs,redux,git,spring,nodejs,expressjs,nestjs,postgresql,mysql,mongodb,redis,docker,aws&perline=10" />
 </p>
 
 
