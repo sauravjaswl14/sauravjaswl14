@@ -9,7 +9,7 @@ I focus on writing clean, scalable and maintainable code, delivering features th
 
 ---
 
-- 🌱 I’m learning to build scalable and efficient backend systems and services.
+- 🌱 I’m learning nestjs, django web frameworks
 - 👯 I’m looking to collaborate on real-world web applications. 
 - 🤔 I’m looking for help with system design and AI integrations.
 - 💬 Ask me about React, Next.js, database design, writing efficient database queries and building scalable backend systems.
